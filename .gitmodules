@@ -1,3 +1,4 @@
 [submodule "hub"]
 	path = hub
 	url = https://github.com/saubreezy/hub.git
+	branch = main
